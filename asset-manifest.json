@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%20//risviantoe.github.io/static/css/main.1a5ee7a5.css",
-    "main.js": "/%20//risviantoe.github.io/static/js/main.ce3df76e.js",
-    "static/media/resto.png": "/%20//risviantoe.github.io/static/media/resto.7cc5b51d7c2c4f133fcc.png",
-    "static/media/loginpage.png": "/%20//risviantoe.github.io/static/media/loginpage.7e8a06b81c76a523f29c.png",
-    "static/media/sapitify-m.png": "/%20//risviantoe.github.io/static/media/sapitify-m.152f58bc78dfe8c75a75.png",
-    "static/media/travel-app.png": "/%20//risviantoe.github.io/static/media/travel-app.a92a35a9542ca47ad40c.png",
-    "static/media/psb-online.png": "/%20//risviantoe.github.io/static/media/psb-online.a399bf06b00047a39d4f.png",
-    "static/media/jahitinkuy.png": "/%20//risviantoe.github.io/static/media/jahitinkuy.bd1867a485aad1614ca2.png",
-    "static/media/siperpus.png": "/%20//risviantoe.github.io/static/media/siperpus.58e582d3b260b5b83016.png",
-    "static/media/me.jpg": "/%20//risviantoe.github.io/static/media/me.103475598c99b95d5d4c.jpg",
-    "static/media/cv_edwinrisvianto.pdf": "/%20//risviantoe.github.io/static/media/cv_edwinrisvianto.8793d00718ad49fc1597.pdf",
-    "static/media/psikotalk.png": "/%20//risviantoe.github.io/static/media/psikotalk.6df5d196634c854ee552.png",
-    "static/media/akm.png": "/%20//risviantoe.github.io/static/media/akm.fbf794533541c1d617e8.png",
-    "index.html": "/%20//risviantoe.github.io/index.html",
-    "main.1a5ee7a5.css.map": "/%20//risviantoe.github.io/static/css/main.1a5ee7a5.css.map",
-    "main.ce3df76e.js.map": "/%20//risviantoe.github.io/static/js/main.ce3df76e.js.map"
+    "main.css": "/static/css/main.1a5ee7a5.css",
+    "main.js": "/static/js/main.a7f60716.js",
+    "static/media/resto.png": "/static/media/resto.7cc5b51d7c2c4f133fcc.png",
+    "static/media/loginpage.png": "/static/media/loginpage.7e8a06b81c76a523f29c.png",
+    "static/media/sapitify-m.png": "/static/media/sapitify-m.152f58bc78dfe8c75a75.png",
+    "static/media/travel-app.png": "/static/media/travel-app.a92a35a9542ca47ad40c.png",
+    "static/media/psb-online.png": "/static/media/psb-online.a399bf06b00047a39d4f.png",
+    "static/media/jahitinkuy.png": "/static/media/jahitinkuy.bd1867a485aad1614ca2.png",
+    "static/media/siperpus.png": "/static/media/siperpus.58e582d3b260b5b83016.png",
+    "static/media/me.jpg": "/static/media/me.103475598c99b95d5d4c.jpg",
+    "static/media/cv_edwinrisvianto.pdf": "/static/media/cv_edwinrisvianto.8793d00718ad49fc1597.pdf",
+    "static/media/psikotalk.png": "/static/media/psikotalk.6df5d196634c854ee552.png",
+    "static/media/akm.png": "/static/media/akm.fbf794533541c1d617e8.png",
+    "index.html": "/index.html",
+    "main.1a5ee7a5.css.map": "/static/css/main.1a5ee7a5.css.map",
+    "main.a7f60716.js.map": "/static/js/main.a7f60716.js.map"
   },
   "entrypoints": [
     "static/css/main.1a5ee7a5.css",
-    "static/js/main.ce3df76e.js"
+    "static/js/main.a7f60716.js"
   ]
 }
